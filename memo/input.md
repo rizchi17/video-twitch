@@ -6,6 +6,7 @@ Macを変えていたのでsshをGitに登録
 ## Additional content
 ## Setup
 shadcn/uiというのを使ってコンポーネントは楽できる
+https://ui.shadcn.com/docs/components/button
 
 # 2024.02.24
 ## Routing concepts
@@ -34,3 +35,7 @@ appFolder内に作られたファイルはすべてserver component
 server componentの中にclient componentがあるイメージ
 
 "user client"と書くと、そのコンポーネント+子はclient componentになる
+
+# Authentication
+https://clerk.com/
+
