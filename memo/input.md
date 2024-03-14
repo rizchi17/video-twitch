@@ -42,3 +42,9 @@ server componentの中にclient componentがあるイメージ
 # Authentication
 https://clerk.com/
 
+# Dark mode
+アンダースコア始まりのフォルダ: ルーティングに影響を及ぼさないフォルダ（プライベートフォルダ）
+- なるべくpageとcomponentは近いところに書きたい（appの外のcomponentsに書くことも可能だが可読性が×）
+- UI ロジックをルーティング ロジックから分離する役割
+
+パラグラフ内でカンマを使いたい時は&aposとする
