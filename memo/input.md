@@ -8,6 +8,9 @@ Macを変えていたのでsshをGitに登録
 shadcn/uiというのを使ってコンポーネントは楽できる
 https://ui.shadcn.com/docs/components/button
 
+npm run dev
+実行
+
 # 2024.02.24
 ## Routing concepts
 page.tsxというファイル名にするとpageとして扱ってくれる
