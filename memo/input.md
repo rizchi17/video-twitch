@@ -10,6 +10,10 @@ https://ui.shadcn.com/docs/components/button
 
 npm run dev
 実行
+ctr + c
+終了
+clear
+= command k
 
 # 2024.02.24
 ## Routing concepts
