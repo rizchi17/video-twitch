@@ -1,3 +1,7 @@
+# Twitch Clone
+https://youtu.be/a02JAryRPVU?si=P-16biBZCWSZ8bJB
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
